@@ -1,5 +1,8 @@
 title: hrmm, maybe we make soup!
 new-page: true
 tags: top
-view-if: startCooking = false
+view-if: startCooking != true
+
 Heavy hungry! We MAKE SOUP!
+
+on-arrival: startCooking = true
