@@ -1,1 +1,6 @@
+title: Chop Vegtable!
+new-page: true
+tags: top
+view-if: startCooking = true
 
+slice and slice! 
