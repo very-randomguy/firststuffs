@@ -2,7 +2,7 @@ title: Hungry Pootis!
 new-page: true
 tags: top
 view-if: startCooking != "true"
-
+on-arrival: startCooking = "true"
 Heavy hungry! We MAKE SOUP!
 
-on-arrival: startCooking = "true"
+
